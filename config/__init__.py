@@ -1,0 +1,1 @@
+from .fred_config import FREDConfig as Config

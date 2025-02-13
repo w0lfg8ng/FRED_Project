@@ -1,0 +1,14 @@
+api_key: "de6ed1ba2ee32c96ef952aafd5cdf000"
+cache_duration: 86400
+indicators:
+  gdp: "GDPC1"
+  unemployment: "UNRATE"
+  inflation: "CPIAUCSL"
+  fed_rate: "FEDFUNDS"
+  yield_spread: "T10Y2Y"
+  industrial_production: "INDPRO"
+  retail_sales: "RSAFS"
+  money_supply: "M2SL"
+  financial_conditions: "NFCI"
+  housing_starts: "HOUST"
+  vehicle_sales: "TOTALSA"

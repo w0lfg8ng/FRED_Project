@@ -1,0 +1,29 @@
+# Keep your existing entries
+.env
+**pycache**/
+*.pyc
+
+# Add these new entries
+# Virtual environment
+fred_env/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Generated files
+visualizations/
+
+# Trained models
+models/saved/
+
+# Additional Python files
+*.pyo
+*.pyd
+*.so

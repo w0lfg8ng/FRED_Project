@@ -1,0 +1,1 @@
+from .fred_collector import FREDDataCollector as FREDCollector
